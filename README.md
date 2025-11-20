@@ -7,7 +7,7 @@ Perform manual testing, write test cases for landing, login- registration, searc
 Test cases, bug reports, screenshot of issues with drive link.
 
 ## How to use
-Open `test cases.xlsx` in Excel to view test cases. Bugs are reported into `bug reports`.
+Open `test cases` folder to view test cases. Bugs are reported into `bug reports` folder.
 
 ## Project Owner
 Saem Shahriar Ratul  -contact: saimratul053@gmail.com
